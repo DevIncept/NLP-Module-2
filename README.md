@@ -22,7 +22,7 @@ The main aim of this training program is to provide you a path you have to work 
 6. [Part3: Sklearn Notebook](Part3-%20Sklearn%20Notebook.ipynb)
 7. [Part4: Project:Sentiment Analysis  ](Part4-Sentiment%20Analysis.md)
 8. [Part4: Project:Sentiment Analysis Notebook](Part4-Sentiment.ipynb)
-10. [Part5: Project:Sentiment Analysis using Naive Bayes](Part5-Sentiment.ipynb)
+10. [Part5: Project:Sentiment Analysis using Naive Bayes](Part5-Sentiment.md)
 11. [Part5: Project:Sentiment Analysis Notebook using Naive Bayes](Part5-Sentiment_naive.ipynb)
 12. [Part5: Competition-Checking Accuracy for different models](Part5-Competetion-Accuracy.md)  
 13. [part6: Bonus: Bert](Part6-Bonus-bert.md)  
